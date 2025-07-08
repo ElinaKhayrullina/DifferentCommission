@@ -1,5 +1,5 @@
 fun main() {
-    val com = commission(85000, "Mastercard", 150000)
+    val com = commission(85000, "Visa", 150000)
     println(com)
 }
 

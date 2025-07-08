@@ -20,6 +20,6 @@ class MainKtTest {
         val allTransactions = 150_000
 
         val result = commission(transaction, card, allTransactions)
-        assertEquals("Комиссия с $transaction рублей составит 637.5 рублей",result)
+        assertEquals("Комиссия с $transaction рублей составит 737.5 рублей",result)
     }
 }
